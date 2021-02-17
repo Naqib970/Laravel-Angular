@@ -22,3 +22,4 @@
 `php artisan serve`
 
 test
+test2
