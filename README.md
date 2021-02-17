@@ -20,3 +20,5 @@
 
 * Start the angular auth app. 
 `php artisan serve`
+
+test
